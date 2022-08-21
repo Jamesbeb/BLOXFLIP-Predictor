@@ -18,6 +18,7 @@ Made in C#, C
 
 6. Enjoy
 
-** Turn off Antivirus as any cheats are considered malicious.**
+𝐓𝐮𝐫𝐧 𝐨𝐟𝐟 𝐀𝐧𝐭𝐢𝐯𝐢𝐫𝐮𝐬 𝐚𝐬 𝐚𝐧𝐲 𝐜𝐡𝐞𝐚𝐭𝐬 𝐚𝐫𝐞 𝐜𝐨𝐧𝐬𝐢𝐝𝐞𝐫𝐞𝐝 𝐦𝐚𝐥𝐢𝐜𝐢𝐨𝐮𝐬
 
-** NOTE THAT YOU CANT USE THIS ON: VPS, RDP, VM, ANY RUN DUE TO PROTECTION OF FILES FOR ENTIRE SOURCE, CONTACT ME ON TELEGRAM **
+
+𝗡𝗢𝗧𝗘 𝗧𝗛𝗔𝗧 𝗬𝗢𝗨 𝗖𝗔𝗡𝗧 𝗨𝗦𝗘 𝗧𝗛𝗜𝗦 𝗢𝗡: 𝗩𝗣𝗦, 𝗥𝗗𝗣, 𝗩𝗠, 𝗔𝗡𝗬 𝗥𝗨𝗡 𝗗𝗨𝗘 𝗧𝗢 𝗣𝗥𝗢𝗧𝗘𝗖𝗧𝗜𝗢𝗡 𝗢𝗙 𝗙𝗜𝗟𝗘𝗦 𝗙𝗢𝗥 𝗘𝗡𝗧𝗜𝗥𝗘 𝗦𝗢𝗨𝗥𝗖𝗘, 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗠𝗘 𝗢𝗡 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠
