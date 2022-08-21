@@ -1,4 +1,4 @@
-🚀 Bloxflip Cheat 🚀
+🚀 Bloxflip Predictor 🚀
 
 Made in C#, C
 
